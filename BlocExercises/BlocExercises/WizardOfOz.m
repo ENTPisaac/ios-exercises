@@ -7,7 +7,7 @@
 //
 
 #import "WizardOfOz.h"
-
+//Isaac's comment
 @implementation WizardOfOz
 
 - (BOOL) switchesFromBlackAndWhiteToColor {
